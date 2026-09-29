@@ -444,7 +444,7 @@ body, #container-wrap { background:#ededed; }
 #loadIndicator span:after { padding-left:1ex; content:'loading content...'; }
 .page-scale-wrap { width:1180px; height:820px; background: #fff !important; }
 .paper-vertical { width:1180px; height:100%; }
-.paper-horizontal { width:1180px; height:832px; }
+.paper-horizontal { width:1190px; height:832px; }
 @media all and (max-height:820px) {
 	.paper-horizontal { margin:0;top:0;}
 	#container > .page { margin:0 auto;}/*pos top for webkit+baker*/

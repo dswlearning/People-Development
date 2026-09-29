@@ -445,7 +445,7 @@ body, #container-wrap { background:#ededed; }
 #slider { width:1180px; height:820px; }
 .page-scale-wrap { width:1180px; height:820px; background: #fff !important; }
 .paper-vertical { width:1180px; height:100%; }
-.paper-horizontal { width:1190px; height:832px; }
+.paper-horizontal { width:2380px; height:832px; }
 @media all and (max-height:820px) {
 	.paper-horizontal { margin:0;top:0;}
 	#container > .page { margin:0 auto;}/*pos top for webkit+baker*/
@@ -593,6 +593,122 @@ html[data-dir="rtl"] #viewer-thumb-wrap { direction:rtl; }
 	left:151px !important;
 	top:466px !important;
 	min-height:27px !important;
+}
+
+#item791 {
+	width:300px !important;
+	height:68px !important;
+	border-radius:34px;
+	background:#f28620;
+}
+
+#item792 {
+	width:255px !important;
+	left:21px !important;
+	top:24px !important;
+	min-height:20px !important;
+}
+
+#item729 {
+	width:300px !important;
+	height:68px !important;
+	border-radius:34px;
+	background:#f28620;
+}
+
+#item753 {
+	width:255px !important;
+	left:21px !important;
+	top:24px !important;
+	min-height:20px !important;
+}
+
+#item762 {
+	width:300px !important;
+	height:68px !important;
+	left:440px !important;
+	top:549px !important;
+}
+
+#item825 {
+	width:1180px !important;
+	height:139px !important;
+	background:#253885;
+}
+
+#item826 {
+	width:143px !important;
+	height:54px !important;
+	left:85px !important;
+	top:43px !important;
+}
+
+#item837 {
+	width:633px !important;
+	left:85px !important;
+	top:181px !important;
+	min-height:27px !important;
+}
+
+#item876 {
+	width:1010px !important;
+	left:85px !important;
+	top:239px !important;
+	min-height:122px !important;
+}
+
+#item905 {
+	width:406px !important;
+	height:221px !important;
+	top:15px !important;
+	background:#253885;
+}
+
+#item933 {
+	width:300px !important;
+	left:53px !important;
+	top:40px !important;
+	min-height:55px !important;
+}
+
+#item958 {
+	width:300px !important;
+	left:53px !important;
+	top:118px !important;
+	min-height:93px !important;
+}
+
+#item1056 {
+	width:406px !important;
+	height:15px !important;
+	background:#f28620;
+}
+
+#item906 {
+	width:406px !important;
+	height:360px !important;
+	top:15px !important;
+	background:#253885;
+}
+
+#item990 {
+	width:300px !important;
+	left:53px !important;
+	top:40px !important;
+	min-height:55px !important;
+}
+
+#item1015 {
+	width:300px !important;
+	left:53px !important;
+	top:118px !important;
+	min-height:87px !important;
+}
+
+#item1057 {
+	width:406px !important;
+	height:15px !important;
+	background:#f28620;
 }
 #in5footer,  #prefooter {display:none;}
 
